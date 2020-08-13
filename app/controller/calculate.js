@@ -88,6 +88,22 @@ const calculateByDate = async (req, res) => {
   }
 } 
 
+const calendar = async (req, res) => {
+  try {
+    const calendar = await Calendar.findAll()
+    res.json({
+      success: true,
+      data: {
+        calendar
+      },
+    });
+  } catch (error) {
+    console.log("Calculate Controller | Error while call calculate()", error);
+    const message = error.message || "เกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง";
+    res.status(500).json({ statusCode: 500, message, url: req.originalUrl });
+  }
+};
+
 calculateYP = async (year) => {
   try {
     const YP = (year % 60) - 3;
@@ -352,5 +368,6 @@ const calculateWood = () => {};
 
 module.exports = {
   calculateByDateTime,
-  calculateByDate
+  calculateByDate,
+  calendar
 };
