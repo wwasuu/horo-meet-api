@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "NODE_ENV=dev PORT=8080 nodemon server.js",
     "start": "NODE_ENV=production PORT=8080 nodemon server.js",
-    "start-prod": "ENV=production pm2 start server.js -i 1 --name api",
+    "start-prod": "ENV=production PORT=8080 pm2 start server.js -i 1 --name api",
     "build": "babel lib -d dist/lib | babel helper -d dist/helper"
   },
   "author": "",
