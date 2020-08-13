@@ -1,0 +1,50 @@
+[
+    {
+        "date_start": "12-08",
+        "date_end": "01-05"
+    },
+    {
+        "date_start": "01-06",
+        "date_end": "02-04"
+    },
+    {
+        "date_start": "02-05",
+        "date_end": "03-05"
+    },
+    {
+        "date_start": "03-06",
+        "date_end": "04-05"
+    },
+    {
+        "date_start": "04-06",
+        "date_end": "05-05"
+    },
+    {
+        "date_start": "05-06",
+        "date_end": "06-05"
+    },
+    {
+        "date_start": "06-06",
+        "date_end": "06-07"
+    },
+    {
+        "date_start": "07-07",
+        "date_end": "08-07"
+    },
+    {
+        "date_start": "08-08",
+        "date_end": "09-07"
+    },
+    {
+        "date_start": "09-08",
+        "date_end": "10-08"
+    },
+    {
+        "date_start": "10-09",
+        "date_end": "11-07"
+    },
+    {
+        "date_start": "11-08",
+        "date_end": "12-07"
+    }
+]

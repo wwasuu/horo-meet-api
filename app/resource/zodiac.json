@@ -1,0 +1,74 @@
+[
+    {
+        "name_th": "ชวด",
+        "name_en": "Rat",
+        "code": "Z1",
+        "value": 1
+    },
+    {
+        "name_th": "ฉลู",
+        "name_en": "Cow",
+        "code": "Z2",
+        "value": 2
+    },
+    {
+        "name_th": "ขาล",
+        "name_en": "Tiger",
+        "code": "Z3",
+        "value": 3
+    },
+    {
+        "name_th": "เถาะ",
+        "name_en": "Rabbit",
+        "code": "Z4",
+        "value": 4
+    },
+    {
+        "name_th": "มะโรง",
+        "name_en": "Dragon",
+        "code": "Z5",
+        "value": 5
+    },
+    {
+        "name_th": "มะเส็ง",
+        "name_en": "Snake",
+        "code": "Z6",
+        "value": 6
+    },
+    {
+        "name_th": "มะเมีย",
+        "name_en": "Horse",
+        "code": "Z7",
+        "value": 7
+    },
+    {
+        "name_th": "มะแม",
+        "name_en": "Goat",
+        "code": "Z8",
+        "value": 8
+    },
+    {
+        "name_th": "วอก",
+        "name_en": "Monkey",
+        "code": "Z9",
+        "value": 9
+    },
+    {
+        "name_th": "ระกา",
+        "name_en": "Chicken",
+        "code": "Z10",
+        "value": 10
+    },
+    {
+        "name_th": "จอ",
+        "name_en": "Dog",
+        "code": "Z11",
+        "value": 11
+    },
+    {
+        "name_th": "กุน",
+        "name_en": "Pig",
+        "code": "Z12",
+        "value": 12
+    }
+]

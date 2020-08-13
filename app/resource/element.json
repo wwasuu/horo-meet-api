@@ -1,0 +1,62 @@
+[
+    {
+        "name_th": "ไม้ หยาง",
+        "name_en": "Wood Yang",
+        "code": "E1",
+        "value": 1
+    },
+    {
+        "name_th": "ไม้ หยิน",
+        "name_en": "Wood Yin",
+        "code": "E2",
+        "value": 2
+    },
+    {
+        "name_th": "ไฟ หยาง",
+        "name_en": "Fire Yang",
+        "code": "E3",
+        "value": 3
+    },
+    {
+        "name_th": "ไฟ หยิน",
+        "name_en": "Fire Yin",
+        "code": "E4",
+        "value": 4
+    },
+    {
+        "name_th": "ดิน หยาง",
+        "name_en": "Earth Yang",
+        "code": "E5",
+        "value": 5
+    },
+    {
+        "name_th": "ดิน หยิน",
+        "name_en": "Earth Yin",
+        "code": "E6",
+        "value": 6
+    },
+    {
+        "name_th": "ทอง หยาง",
+        "name_en": "Gold Yang",
+        "code": "E7",
+        "value": 7
+    },
+    {
+        "name_th": "ทอง หยิน",
+        "name_en": "Gold Yin",
+        "code": "E8",
+        "value": 8
+    },
+    {
+        "name_th": "น้ำ หยาง",
+        "name_en": "Water Yang",
+        "code": "E9",
+        "value": 9
+    },
+    {
+        "name_th": "น้ำ หยิน",
+        "name_en": "Water Yin",
+        "code": "E0",
+        "value": 0
+    }
+]
