@@ -1,17 +1,7 @@
 module.exports = {
-  URL_PREFIX: "/api",
-  DB_HOST: "165.22.109.7",
-  DB_USERNAME: "root",
-  DB_PASSWORD: "b15d873e209b5c8b2f7ec7c5dd4059c0926d8e539ed5e610",
-  DB_NAME: "horo_meet",
-  SECRET_KEY: "GREENLICIOUSBKK",
-  PASSWORD_SALT_ROUND: 10,
-  ACCESS_TOKEN_EXPIRES_IN: "7 days",
-  AWS_ACCESS_KEY_ID: "AKIAINKXYZYFJTXEI6TA",
-  AWS_SECRET_ACCESS_KEY: "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",
-  AWS_BUCKET: "greenliciousbkk",
-  OMISE_SECRET_KEY: "skey_test_5j27pvqoy98glp4caey",
-  OMISE_PUBLIC_KEY: "pkey_test_5j27pvqopm1qzala3l4",
-  OMISE_VERSION: "2019-05-29",
-  SENDGRID_API_KEY: "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"
+  URL_PREFIX: "",
+  DB_HOST: "",
+  DB_USERNAME: "",
+  DB_PASSWORD: "",
+  DB_NAME: "",
 };
